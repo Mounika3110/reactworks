@@ -105,8 +105,8 @@ function Dashboard() {
                 return (
                   <Link to={`/speakdetails/${s.id}`} className="text-decoration-none" key={s.id}>
                     <div className="plm">
-                      <img src={s.image} alt={`${s.Brand} speaker`} style={{ width: '150px' }} /><br />
-                      <strong>Brand:</strong>{s.Brand}<br />
+                      <img src={s.image} alt={`${s.brand} speaker`} style={{ width: '150px' }} /><br />
+                      <strong>Brand:</strong>{s.brand}<br />
                       <strong>Model:</strong> {s.Model} inches <br />
                       <strong>Price:</strong> {s.Price}<br />
                     </div>

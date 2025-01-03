@@ -21,7 +21,7 @@ function NavScrollExample() {
         </Navbar.Collapse>
       </Container>
       <div className='logout'>
-<button type="button" class="btn btn-outline-primary" ><Link to={'/reactworks'}>Logout</Link></button>
+<button type="button" class="btn btn-outline-primary" ><Link to={'/'}>Logout</Link></button>
       </div>
     </Navbar>
 

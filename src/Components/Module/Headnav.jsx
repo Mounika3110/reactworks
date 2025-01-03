@@ -32,7 +32,7 @@ function Headernav({ setSelectedBrand }) {
             <Link to='/dashboard'><p>Back</p></Link> 
             <div className='logout'>
 
-<button type="button" class="btn btn-outline-primary" ><Link to={'/reactworks'}>Logout</Link></button>
+<button type="button" class="btn btn-outline-primary" ><Link to={'/'}>Logout</Link></button>
 
       </div>
       </div>
