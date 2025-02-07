@@ -32,7 +32,7 @@ function Signup() {
             />
           </div>
           <div className='form-action'>
-            <Link to='/'>
+            <Link to='/reactworks'>
               <button type="submit" className="btn btn-primary w-100">Signup</button>
             </Link>
           </div>
