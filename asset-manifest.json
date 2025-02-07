@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c5d25a96.css",
-    "main.js": "/static/js/main.01ceb8b1.js",
+    "main.js": "/static/js/main.5d6ae709.js",
     "static/js/488.fd58dcf9.chunk.js": "/static/js/488.fd58dcf9.chunk.js",
     "static/media/MI2.jpg": "/static/media/MI2.808e4742b1a122d9ea31.jpg",
     "static/media/Vu.jpg": "/static/media/Vu.a963c88bdc7ce8f86ff7.jpg",
@@ -32,11 +32,11 @@
     "static/media/Sonys.webp": "/static/media/Sonys.21cf18f9399b37adc135.webp",
     "index.html": "/index.html",
     "main.c5d25a96.css.map": "/static/css/main.c5d25a96.css.map",
-    "main.01ceb8b1.js.map": "/static/js/main.01ceb8b1.js.map",
+    "main.5d6ae709.js.map": "/static/js/main.5d6ae709.js.map",
     "488.fd58dcf9.chunk.js.map": "/static/js/488.fd58dcf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5d25a96.css",
-    "static/js/main.01ceb8b1.js"
+    "static/js/main.5d6ae709.js"
   ]
 }
