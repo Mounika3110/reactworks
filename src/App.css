@@ -22,11 +22,22 @@ border-radius: 21px;
 .container-fluid{
   text-align: center;
 }
-.alter{
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+.alter {
+  text-align: center;
+  margin-top: 20px; 
+  font-size: 16px; 
+  color: #6c757d; 
 }
+
+.alter a {
+  color: #007bff;
+  text-decoration: none; 
+}
+
+.alter a:hover {
+  text-decoration: underline; 
+}
+
 input{
   width: 75%;
   box-sizing: border-box;
