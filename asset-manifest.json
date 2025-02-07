@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a55c4ac1.css",
+    "main.css": "/static/css/main.7bca6610.css",
     "main.js": "/static/js/main.b70de18e.js",
     "static/js/488.fd58dcf9.chunk.js": "/static/js/488.fd58dcf9.chunk.js",
     "static/media/MI2.jpg": "/static/media/MI2.808e4742b1a122d9ea31.jpg",
@@ -31,12 +31,12 @@
     "static/media/PHILIPS.webp": "/static/media/PHILIPS.51b61a318058cd5c40e3.webp",
     "static/media/Sonys.webp": "/static/media/Sonys.21cf18f9399b37adc135.webp",
     "index.html": "/index.html",
-    "main.a55c4ac1.css.map": "/static/css/main.a55c4ac1.css.map",
+    "main.7bca6610.css.map": "/static/css/main.7bca6610.css.map",
     "main.b70de18e.js.map": "/static/js/main.b70de18e.js.map",
     "488.fd58dcf9.chunk.js.map": "/static/js/488.fd58dcf9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a55c4ac1.css",
+    "static/css/main.7bca6610.css",
     "static/js/main.b70de18e.js"
   ]
 }
